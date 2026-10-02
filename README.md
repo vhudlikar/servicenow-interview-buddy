@@ -1,5 +1,9 @@
 # 🚀 ServiceNow Interview Buddy
 
+An AI-powered ServiceNow interview preparation tool built with Streamlit, Ollama, and the open-weight Llama 3.2 model.
+
+![Landing Page](screenshots/landing-page.png)
+
 ServiceNow Interview Buddy is an AI-powered interview preparation tool built using Streamlit, Ollama, and the open-weight Llama 3.2 model.
 
 The application helps ServiceNow professionals prepare for interviews by generating role-specific questions based on experience level.
