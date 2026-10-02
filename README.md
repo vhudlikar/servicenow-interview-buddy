@@ -74,4 +74,14 @@ Benefits:
 
 ## Screenshots
 
-Screenshots will be added in future updates.
+### Landing Page
+
+screenshots/landing-page.png
+
+### Role Selection
+
+screenshots/role-selection.png
+
+### Generated Questions
+
+screenshots/generated-questions.png
