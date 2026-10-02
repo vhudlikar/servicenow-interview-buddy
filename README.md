@@ -76,12 +76,12 @@ Benefits:
 
 ### Landing Page
 
-screenshots/landing-page.png
+![Landing Page](screenshots/landing-page.png)
 
 ### Role Selection
 
-screenshots/role-selection.png
+![Role Selection](screenshots/role-selection.png)
 
 ### Generated Questions
 
-screenshots/generated-questions.png
+![Generated Questions](screenshots/generated-questions.png)
